@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "penguin-analyst-boaz"
-version = "0.1.1"
+name = "penguin_analyst_boaz"
+version = "0.1.2"
 description = ""
 authors = ["Boaz <boazbokek@gmail.com>"]
 readme = "README.md"
